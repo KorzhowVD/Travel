@@ -11,4 +11,4 @@ __В проекте применяются такие технологии:__
 * Устанавливаются эффекты перехода через CSS
 * Работа с DOM-элементами
 
-[__Ссылка на GitHub Pages__](https://kateviwe.github.io/mesto/)
+[__Ссылка на GitHub Pages__](https://korzhowvd.github.io/Travel/)
